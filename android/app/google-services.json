@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "675979945000",
+    "project_id": "beauty-connect-9d187",
+    "storage_bucket": "beauty-connect-9d187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675979945000:android:e05f20b4e93852008d011d",
+        "android_client_info": {
+          "package_name": "com.beauty_connect.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLhe6-fmBpk6y1YXHO09dili5G-3xtftI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
